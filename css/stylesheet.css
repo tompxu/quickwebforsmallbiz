@@ -1,0 +1,85 @@
+.jumbotron{
+	background-image: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size:100%;
+
+	color: white;
+}
+.sat{
+	height: 100px;
+}
+.tp{
+	height: 150px;
+}
+.display{
+	background: #2E9AFE;
+	color: white;
+}
+.display ul li{
+	font-size: 20px;
+	list-style: none;
+}
+.display p{
+	font-size: 20px;
+}
+.glyphicon.glyphicon-globe{
+	font-size: 160px;
+	margin-top: 20px;
+}
+.footer{
+	background: black;
+	color: white;
+	padding: 30px 0 20px 0;
+}
+.footer li{
+	float: left;
+	list-style: none;
+	padding: 0 20px 0 20px;
+	font-weight: bold;
+
+}
+.footer li a{
+	color: white;
+}
+.footer p{
+	color: white;
+}
+.belownav{
+	margin: 40px 0 40px 0;
+	padding: 30px 0 30px 0;
+}
+.belownav img{
+	height: 150px;
+}
+.title{
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+.training{
+	background: orange;
+}
+.training h1{
+	color: white;
+	font-weight: bold;
+}
+.belownav2{
+	margin: 20px 0 40px 0;
+	padding: 30px 0 30px 0;
+}
+.panel{
+	margin-top: 70px;
+}
+.carousel-inner .item img{
+    width: 80%;
+	margin-left: 150px;
+	height: 60%;
+}
+.contact{
+	background: #58FA58;
+
+}
+.contact h2{
+	color: white;
+}
